@@ -1,0 +1,23 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "prafesar's blog",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prafesar/tut.git"
+  },
+  "author": "prafesar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prafesar/tut/issues"
+  },
+  "homepage": "https://github.com/prafesar/tut#readme"
+}
